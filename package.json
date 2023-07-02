@@ -1,6 +1,7 @@
 {
   "name": "history-list",
   "displayName": "History List",
+  "publisher": "IvanGrigorov",
   "icon": "assets/list.png",
   "description": "This extension lists your latest Powershel/Terminal commands and allows you to directly copy any of them in the clipboard.",
   "version": "0.0.1",
