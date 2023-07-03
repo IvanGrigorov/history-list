@@ -6,7 +6,7 @@ This extension lists your latest Powershel/Terminal commands and allows you to d
 This saves time if you want to go back in command history and reuse a command
 
 
-![Alt Text](https://github.com/IvanGrigorov/history-list/blob/main/assets/screen-recorder-sun-jul-02-2023-23-40-47.gif)
+![Alt Text](https://github.com/IvanGrigorov/history-list/blob/main/assets/screen-recorder-sun-jul-02-2023-23-40-47.gif?raw=true)
 
 ## Known Issues
 
