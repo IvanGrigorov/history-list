@@ -4,7 +4,7 @@
   "publisher": "IvanGrigorov",
   "icon": "assets/list.png",
   "description": "This extension lists your latest Powershel/Terminal commands and allows you to directly copy any of them in the clipboard.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.79.0"
   },
